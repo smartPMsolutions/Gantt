@@ -24,7 +24,7 @@
     </style>
      <div id="image-container"> <svg width="750" height="100">  </svg></div> 
     <div id="chart"></div>
-    <a href="https://www.spiegel.de" target="_blank" class="follow-link">XING - smartPM</a>
+    <a href="https://www.smartpm.solutions" target="_blank" class="follow-link">smartPM</a>
     `;
 
     class GanttChartWidget extends HTMLElement {
