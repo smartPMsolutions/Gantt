@@ -19,6 +19,7 @@
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
+            display: none;
         }
     </style>
      <div id="image-container"> <svg width="750" height="100">  </svg></div> 
