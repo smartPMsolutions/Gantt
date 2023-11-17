@@ -12,7 +12,7 @@
         {
             "kind": "main",
             "tag": "gantt-chart-widget",
-            "url": "https://github.com/smartPMsolutions/Gantt/blob/main/GanttChartWidget.js",
+            "url": "https://smartpmsolutions.github.io/Gantt/GanttChartWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
